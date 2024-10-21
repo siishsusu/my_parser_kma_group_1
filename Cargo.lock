@@ -3,7 +3,7 @@
 version = 3
 
 [[package]]
-name = "my_parser_kma_group_1"
+name = "my_parser_kma_group_test_1234567890"
 version = "0.1.0"
 dependencies = [
  "peg",
